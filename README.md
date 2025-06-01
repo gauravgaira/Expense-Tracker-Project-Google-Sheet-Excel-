@@ -1,8 +1,8 @@
-# Expense-Tracker-Project-Google-Sheet-Excel-
+Expense-Tracker-Project-Google-Sheet-Excel-
 [View Google Sheet](https://docs.google.com/spreadsheets/d/1uha2ZlDUkygMKLTK8LGBXImSXLPD7ymV1PFh-A6caok/edit?usp=sharing)
 
 A user-friendly and automated Expense Tracking System built with Google Sheets and Google Apps Script that simplifies personal finance management. It enables effortless expense logging through interactive prompts, real-time data tracking with timestamped entries, and powerful financial insights using pivot tables and dynamic charts. The system also features automated email reporting for convenient monitoring of spending patterns and budget management.
----
+--
 
 ## Project Overview
 
